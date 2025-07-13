@@ -1,0 +1,20 @@
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.inter-logo {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal; color: #4E47FF; font-size: 34px;
+}
+
+/* nav style */
+
+nav ul{list-style: none; display: flex; align-items: center; justify-content: space-between; padding: 0px 50px;}
+
+
+/* shared styles */
+.button-primary{color: #FFFFFF; background-color: #4E47FF; padding: 12px 36px; font-size: 16px; font-weight: bold; border-radius: 10px;}
