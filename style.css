@@ -57,3 +57,21 @@ header
 .user-content{text-align: center;}
 
 .user-section{background-color: #4d47ff10; padding: 80px 50px; border-radius: 24px; margin: 120px 130px;} 
+
+/* form style */
+form{
+  font-family: "Inter", sans-serif;
+}
+.form-section{margin: auto;}
+.form-title{font-weight: bold; font-size: 97px; color: #000000; line-height: 120%;}
+
+.form-container{display: flex; justify-content: space-around; align-items: center; margin: auto}
+
+form label{display: block; font-weight: bold;}
+
+.form-title{width: 50%;}
+
+form input, textarea{width: 100%; padding: 32px 20px; font-size: 20px;}
+
+.get-in-touch-button
+{color: #FFFFFF; background-color: #4E47FF; padding: 12px 36px; font-size: 16px; font-weight: bold; border-radius: 10px; width: 100%;}
